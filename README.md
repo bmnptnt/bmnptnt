@@ -1,6 +1,20 @@
-### Hi there 👋
-- 🌱 I’m currently learning Imageprocessing & Deeplearning
--  📫 How to reach me: qorwjssmd@naver.com
+### 😊JeonNeung Baek
+####  🌱 Studying
+- Imageprocessing
+- Deeplearning
+
+#### ✉️ Contact 
+- E-mail : qorwjssmd@naver.com
+- velog : https://velog.io/@bmnptnt
+- instagram : https://www.instagram.com/baek_neung/
+- Naver Blog : https://blog.naver.com/qorwjssmd
+
+#### 📚 Stacks
+- C, C++
+- Python
+- PyTorch
+
+
 
 <!--
 **bmnptnt/bmnptnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
