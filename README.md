@@ -1,17 +1,17 @@
 ## 😊JeonNeung Baek
 
 
-####  🌱 Studying
+###  🌱 Studying
 - Imageprocessing
 - Deeplearning
 
-#### ✉️ Contact 
+### ✉️ Contact 
 - E-mail : qorwjssmd@naver.com
 - velog : https://velog.io/@bmnptnt
 - instagram : https://www.instagram.com/baek_neung/
 - Naver Blog : https://blog.naver.com/qorwjssmd
 
-#### 📚 Stacks
+### 📚 Stacks
 - C, C++
 - Python
 - PyTorch
