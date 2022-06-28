@@ -1,8 +1,8 @@
 # 😌JeonNeung Baek
 - B.S. - School of Intelligent Mechatronics Engineering, Sejong University Mar.2018 - Feb.2023
 ##  🌱 Studying
-- Imageprocessing
-- Deeplearning
+- Image processing
+- Deep learning
 
 ## 📚 Stacks
 - C, C++
