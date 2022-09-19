@@ -12,7 +12,6 @@
 
 ## ✉️ Contact 
 - E-mail : qorwjssmd@naver.com
-- velog : https://velog.io/@bmnptnt
 - instagram : https://www.instagram.com/baek_neung/
 
 
