@@ -9,10 +9,10 @@
 
 
 ## 📚 Stacks
-- C, C++
 - Python
 - PyTorch
 - Keras
+- C, C++
 
 ## ✉️ Contact 
 - E-mail : qorwjssmd@naver.com
