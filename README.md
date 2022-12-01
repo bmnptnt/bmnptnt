@@ -5,6 +5,7 @@
 - Video Coding
 - Image processing
 - Deep learning
+- Computer Vision
 
 
 ## 📚 Stacks
