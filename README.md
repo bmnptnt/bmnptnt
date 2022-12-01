@@ -1,8 +1,11 @@
 # 😌JeonNeung Baek
 - B.S. - School of Intelligent Mechatronics Engineering, Sejong University Mar.2018 - Feb.2023
 ##  🌱 Studying
+- Super Resolution
+- Video Coding
 - Image processing
 - Deep learning
+
 
 ## 📚 Stacks
 - C, C++
