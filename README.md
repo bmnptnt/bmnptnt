@@ -1,5 +1,6 @@
 # 😌JeonNeung Baek
 - B.S. - School of Intelligent Mechatronics Engineering, Sejong University Mar.2018 - Feb.2023
+- M.S. - Department of Intelligent Mechatronics Engineering, Sejong University Mar.2023 - 
 ##  🌱 Studying
 - Super Resolution
 - Video Coding
