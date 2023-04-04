@@ -11,7 +11,7 @@
 ## 📚 Stacks
 - Python
 - PyTorch
-- Keras
+- Tensorflow
 - C, C++
 
 ## ✉️ Contact 
