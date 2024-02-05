@@ -1,19 +1,11 @@
 # 🎸JeonNeung Baek
 - B.S. - School of Intelligent Mechatronics Engineering, Sejong University Mar.2018 - Feb.2023
 - M.S. - Department of Intelligent Mechatronics Engineering, Sejong University Mar.2023 - Present
+  
 ##  🌱 Studying
-- Super Resolution
-- Video Coding
-- Image processing
-- Deep learning
-- Computer Vision
-
-
-## 📚 Stacks
-- Python
-- PyTorch
-- Tensorflow
-- C, C++
+- Image Enhancement: Super Resolution, NNPF(Neural Network Post-Filter)
+- Video Coding: MIV(MPEG Immersive Video), VCM(Video Coding for Machines)
+- Computer Vision: Multi-Label Classification, Object Detection, Object Segmentation, Object Tracking
 
 ## ✉️ Contact 
 - E-mail : qorwjssmd@naver.com, bmnptnt@gmail.com
