@@ -4,7 +4,7 @@
   
 ##  🌱 Studying
 - Image Enhancement: Super Resolution, NNPF(Neural Network Post-Filter)
-- Video Coding: MIV(MPEG Immersive Video), VCM(Video Coding for Machines)
+- Video Coding:  VCM(Video Coding for Machines), MIV(MPEG Immersive Video)
 - Computer Vision: Multi-Label Classification, Object Detection, Object Segmentation, Object Tracking
 
 ## ✉️ Contact 
