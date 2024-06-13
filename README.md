@@ -8,9 +8,9 @@
 - Computer Vision: Video Anomaly Detection, Multi-Label Classification, Object Detection, Object Segmentation, Object Tracking
 
 ## ✉️ Contact 
-- E-mail : qorwjssmd@naver.com, bmnptnt@gmail.com
+- E-mail : bmnptnt@gmail.com
 - instagram : https://www.instagram.com/baek_neung/
-- Laboratory : https://sites.google.com/view/ivcl
+- Intelligent Visual Computing Lab : https://sites.google.com/view/ivcl
 
 
 
