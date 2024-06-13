@@ -10,7 +10,7 @@
 ## ✉️ Contact 
 - E-mail : bmnptnt@gmail.com
 - instagram : https://www.instagram.com/baek_neung/
-- Intelligent Visual Computing Lab : https://sites.google.com/view/ivcl
+- Laboratory : Intelligent Visual Computing Lab https://sites.google.com/view/ivcl
 
 
 
