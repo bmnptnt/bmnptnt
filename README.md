@@ -9,7 +9,7 @@
 
 ## ✉️ Contact 
 - E-mail : bmnptnt@gmail.com
-- instagram : https://www.instagram.com/baek_neung/
+- instagram : [@baek_neung](https://www.instagram.com/baek_neung/)
 - Laboratory : [Intelligent Visual Computing Lab](https://sites.google.com/view/ivcl) in Sejong University
 
 
