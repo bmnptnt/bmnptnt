@@ -3,9 +3,10 @@
 - M.S. - Department of Intelligent Mechatronics Engineering, Sejong University Mar.2023 - Present
   
 ##  🌱 Studying
-- Image Restoration: Super Resolution, NNPF(Neural Network Post-Filter)
-- Video Coding:  VCM(Video Coding for Machines), MIV(MPEG Immersive Video)
-- Computer Vision: Video Anomaly Detection, Multi-Label Classification, Object Detection, Object Segmentation, Object Tracking
+- Image Restoration: SR(Super Resolution), NNPF(Neural Network Post-Filter)
+- Visual Recognition: Video Anomaly Detection, Multi-Label Classification, Object Detection, Object Segmentation, Object Tracking
+- Video Coding: FCM(Feature Coding for Machines), MIV(MPEG Immersive Video)
+
 
 ## ✉️ Contact 
 - E-mail : bmnptnt@gmail.com
