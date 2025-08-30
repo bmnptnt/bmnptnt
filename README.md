@@ -1,7 +1,7 @@
 # 🦅 Jeonneung Baek
 ##  🌱 Education
-- M.S. - [IVCL](https://sites.google.com/view/ivcl), Department of Intelligent Mechatronics Engineering, Sejong University, Mar. 2023 - Feb. 2025
-- B.S. - School of Intelligent Mechatronics Engineering, Sejong University, Mar. 2018 - Feb. 2023
+- M.S. - [IVCL](https://sites.google.com/view/ivcl), Dept. of Intelligent Mechatronics Engineering, Sejong University, Mar. 2023 - Feb. 2025
+- B.S. - Dept. of Intelligent Mechatronics Engineering, Sejong University, Mar. 2018 - Feb. 2023
   
 ##  🚀 Research
 - Image Restoration: SR(Super Resolution), NNPF(Neural Network Post-Filter)
