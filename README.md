@@ -1,4 +1,4 @@
-# 🦅 Jeon-neung Baek
+# 🦅 Jeonneung Baek
 ##  🌱 Education
 - M.S. - Department of Intelligent Mechatronics Engineering, Sejong University Mar.2023 - Feb.2025
 - B.S. - School of Intelligent Mechatronics Engineering, Sejong University Mar.2018 - Feb.2023
