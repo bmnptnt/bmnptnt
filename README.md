@@ -1,5 +1,6 @@
 # 🦅 Jeonneung Baek
 ##  🌱 Education & Career
+- Assistant Research Engineer - Image Processing Development Team, [Rayence](https://www.rayence.com/), Sep. 2025 - Present
 - M.S. - [IVCL](https://sites.google.com/view/ivcl), Department of Intelligent Mechatronics Engineering, Sejong University, Mar. 2023 - Feb. 2025
 - B.S. - School of Intelligent Mechatronics Engineering, Sejong University, Mar. 2018 - Feb. 2023
   
