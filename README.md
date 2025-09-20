@@ -12,7 +12,7 @@
 
 ## ✉️ Contact 
 - E-mail : bmnptnt@gmail.com
-- Instagram : @baek_neung[[Link]](https://www.instagram.com/baek_neung/)
+- Instagram : @baek_neung [[Link]](https://www.instagram.com/baek_neung/)
 
 
 
