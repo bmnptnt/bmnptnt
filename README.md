@@ -1,8 +1,8 @@
 # 🦅 Jeonneung Baek
 ##  🌱 Education & Career
-- Assistant Research Engineer - Image Processing Development Team, Rayence[[Link]](https://www.rayence.com/), Sep. 2025 - Present
-- M.S. - [[Link]](https://sites.google.com/view/ivcl), Department of Intelligent Mechatronics Engineering[[Link]](https://imc.sejong.ac.kr/), Sejong University[[Link]](https://www.sejong.ac.kr/kor/index.do), Mar. 2023 - Feb. 2025
-- B.S. - School of Intelligent Mechatronics Engineering[[Link]](https://imc.sejong.ac.kr/), Sejong University[[Link]](https://www.sejong.ac.kr/kor/index.do), Mar. 2018 - Feb. 2023
+- Assistant Research Engineer - Image Processing Development Team, Rayence [[Link]](https://www.rayence.com/), Sep. 2025 - Present
+- M.S. - IVCL [[Link]](https://sites.google.com/view/ivcl), Department of Intelligent Mechatronics Engineering, Sejong University[[Link]](https://www.sejong.ac.kr/kor/index.do), Mar. 2023 - Feb. 2025
+- B.S. - School of Intelligent Mechatronics Engineering, Sejong University [[Link]](https://www.sejong.ac.kr/kor/index.do), Mar. 2018 - Feb. 2023
   
 ##  🚀 Research
 - Image Restoration: SR(Super Resolution), NNPF(Neural Network Post-Filter)
